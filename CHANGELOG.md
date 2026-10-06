@@ -4,6 +4,10 @@ All notable changes to this project are recorded here. The format follows [Keep 
 
 ## [Unreleased]
 
+### Fixed
+
+- Fixed keyboard and screen reader accessibility for the "About the posters" dialog.
+
 ## [3.0.0] - 2026-10-03
 
 ### Added
